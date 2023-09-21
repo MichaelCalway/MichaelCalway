@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelCalway
-- 👀 I’m interested in Full stack Web development.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & PYTHON.
+- 👀 Full stack Web development.
+- 🌱 I’m currently learning HTML, CSS, JS, TS, REACT & PYTHON.
 - 💞️ I’m looking to collaborate on funky new websites.
 - 📫 How to reach me michaelscottcalway@gmail.com
 
