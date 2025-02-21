@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MichaelCalway
+- 👋 Hi, I’m MichaelCalway
 - 👀 Full stack Web development.
 - 🌱 Dev of JS, TS, REACT & RUST.
-- 💞️ I’m looking to collaborate on funky new websites.
-- 📫 How to reach me michaelscottcalway@gmail.com
+- 💞️ Stack Sats.
+- 📫 How to reach me michaelcalway@proton.me
 
 <!---
 MichaelCalway/MichaelCalway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
