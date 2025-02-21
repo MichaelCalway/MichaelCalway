@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MichaelCalway
+- 👋 Hi, I’m Michael Calway
 - 👀 Full stack Web development.
 - 🌱 Dev of JS, TS, REACT & RUST.
 - 💞️ Stack Sats.
