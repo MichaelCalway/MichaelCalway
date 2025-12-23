@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Calway
 - 👀 Full stack Web development.
-- 🌱 Dev of JS, TS, REACT & RUST.
+- 🌱 Dev of JS, TS, REACT.
 - 💞️ Stack Sats.
 - 📫 How to reach me michaelcalway@proton.me
 
